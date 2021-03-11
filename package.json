@@ -8,11 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "kafka-client": "^3.0.0",
     "kafka-node": "^5.0.0",
     "vue": "^2.6.11",
+    "vue-animejs": "^2.1.1",
+    "vue-google-signin-button-directive": "^1.0.3",
+    "vue-like-dislike-buttons": "^0.2.4",
     "vue-router": "^3.2.0",
+    "vue-simple-alert": "^1.1.1",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
